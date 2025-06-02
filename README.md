@@ -1,13 +1,13 @@
 # BlazorApp – Laboratorium 4 (.NET / JAVA)
 
 ## Autor
-Imię i nazwisko: *Kacper Karkosz*  
+Kacper Karkosz
 ## Prowadzący
 mgr inż. Michał Jaroszczuk
 
 ## Opis projektu
 
-Aplikacja została zrealizowana w technologii **Blazor Server** w ramach zajęć „Platformy programistyczne .NET i Java – Laboratorium 4”. Celem było zapoznanie się z frameworkiem Blazor oraz stworzenie aplikacji webowej z interaktywnymi komponentami, obsługą danych oraz implementacją systemu logowania i hostowaniem w chmurze Microsoft Azure.
+Aplikacja została zrealizowana w technologii **Blazor Server** w ramach Laboratorium 4. Celem było zapoznanie się z frameworkiem Blazor oraz stworzenie aplikacji webowej z interaktywnymi komponentami, obsługą danych oraz implementacją systemu logowania i hostowaniem w chmurze Microsoft Azure.
 
 ## Zakres zrealizowanych zadań
 
